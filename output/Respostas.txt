@@ -1,0 +1,19 @@
+Respostas dos Exercícios
+
+Autor: Pedro
+
+Resposta Ex1:
+	Id
+	EmployeeName
+	JobTitle
+	BasePay
+	OvertimePay
+	OtherPay
+	Benefits
+	TotalPay
+	TotalPayBenefits
+	Year
+	Notes
+	Agency
+	Status
+
